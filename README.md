@@ -2,10 +2,6 @@
 
 This project demonstrates how to build an **ELT (Extract, Load, Transform)** data pipeline to process **1 million records** using **Google Cloud Platform (GCP)** and **Apache Airflow**. The pipeline extracts data from Google Cloud Storage (GCS), loads it into BigQuery, and transforms it to create country-specific tables and views for analysis.
 
-Video Tutorial  
-Part 1:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/pilPHlOVjII)
-Part 2:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/rIUWbSXjKe4)
-
 
 ---
 
@@ -70,5 +66,6 @@ Part 2:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://y
 ### Looker Studio Report
 
 ![image](https://github.com/user-attachments/assets/d06f0d3e-a1d0-404a-9eb7-c61c85df8257)
+
 
 
